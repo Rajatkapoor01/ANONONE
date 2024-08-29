@@ -1,3 +1,3 @@
 # E-Commerce
 
-https://anon-one.netlify.app/
+**HOST LINK:**  https://anon-one.netlify.app/
