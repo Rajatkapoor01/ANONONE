@@ -74,7 +74,7 @@ We welcome contributions to improve the project. Please fork the repository, mak
 
 ## Contact
 
-For any inquiries or issues, please contact us at [example@gmail.com](mailto:example@gmail.com).
+For any inquiries or issues, please contact us at [rajat01kapoor@gmail.com](mailto:rajat01kapoor@gmail.com).
 
 ## Acknowledgements
 
